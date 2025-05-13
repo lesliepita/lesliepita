@@ -1,6 +1,6 @@
 # ¡Hola! Soy Leslie 🌱
 Soy técnica sanitaria con experiencia tanto en hospital como en clínica dental.
-He decidido hacer un cambio y enfocar mi carrera hacia el **desarrollo web y la informática**, por ello estoy formandome en desarrollo fronted.
+He decidido hacer un cambio y enfocar mi carrera hacia el **desarrollo web y la informática**, por ello estoy formandome en desarrollo frontend.
 
 ## Contacto
 <div style="display: flex; align-items: center;">
@@ -15,7 +15,7 @@ He decidido hacer un cambio y enfocar mi carrera hacia el **desarrollo web y la 
   </a>
 </div>
 
-## herramientas 
+## Herramientas 
 <div style="display: flex; align-items: center;">
   <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" width="50" height="50" style="margin-right: 10px;" />
