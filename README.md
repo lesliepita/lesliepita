@@ -20,6 +20,7 @@ He decidido hacer un cambio y enfocar mi carrera hacia el **desarrollo web y la 
   <img src="https://www.svgrepo.com/show/353884/html-5.svg" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://www.svgrepo.com/show/303481/css-3-logo.svg" width="50" height="50" style="margin-right: 10px;" />
   <img src="https://www.svgrepo.com/show/354987/figma.svg" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/373968/photoshop.svg" width="50" height="50" />
 </div>
 
 ## Idiomas
